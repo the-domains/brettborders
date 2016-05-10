@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BrettBorders]]></title>
         <description><![CDATA[BrettBorders]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brettborders/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 19:36:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 19:56:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brettborders/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57bce797-4c0d-4375-9512-34e2b6221a80.jpg">]]></description>
+            <link>https://thegrid.ai/brettborders/b796f462-280c-410b-88cf-48c605c5ee45/index.html</link>
+            <guid isPermaLink="false">b796f462-280c-410b-88cf-48c605c5ee45</guid>
+            <pubDate>Tue, 10 May 2016 19:56:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffc562f6-f446-40f0-96d3-4e0d69f71bd9.jpg">]]></description>
-            <link>undefined08167cf1-7493-4c19-a6ed-c58be2edb51e/index.html</link>
+            <link>https://thegrid.ai/brettborders/08167cf1-7493-4c19-a6ed-c58be2edb51e/index.html</link>
             <guid isPermaLink="false">08167cf1-7493-4c19-a6ed-c58be2edb51e</guid>
             <pubDate>Tue, 10 May 2016 19:35:56 GMT</pubDate>
         </item>
