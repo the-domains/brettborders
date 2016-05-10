@@ -1,0 +1,28 @@
+name: BrettBorders
+favicon: null
+layout_spectrum: 0.8188288712408394
+typography_spectrum: 0.2967937462963164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.23083388130180538
+  lightness: 0.7608892663847655
+  saturation: 0.721180765889585
+  rhythmicContrast: 0.015272386837750673
+purpose: []
